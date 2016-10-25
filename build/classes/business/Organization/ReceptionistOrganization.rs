@@ -1,0 +1,1 @@
+Business.Organization.ReceptionistOrganization

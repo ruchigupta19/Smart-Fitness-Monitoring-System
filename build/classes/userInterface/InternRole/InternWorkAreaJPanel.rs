@@ -1,0 +1,13 @@
+userinterface.InternRole.InternWorkAreaJPanel$12
+userinterface.InternRole.InternWorkAreaJPanel$11
+userinterface.InternRole.InternWorkAreaJPanel$10
+userinterface.InternRole.InternWorkAreaJPanel
+userinterface.InternRole.InternWorkAreaJPanel$5
+userinterface.InternRole.InternWorkAreaJPanel$4
+userinterface.InternRole.InternWorkAreaJPanel$7
+userinterface.InternRole.InternWorkAreaJPanel$6
+userinterface.InternRole.InternWorkAreaJPanel$9
+userinterface.InternRole.InternWorkAreaJPanel$8
+userinterface.InternRole.InternWorkAreaJPanel$1
+userinterface.InternRole.InternWorkAreaJPanel$3
+userinterface.InternRole.InternWorkAreaJPanel$2

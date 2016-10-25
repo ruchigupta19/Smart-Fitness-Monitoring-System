@@ -1,0 +1,16 @@
+userinterface.PatientRole.PatientWorkAreaJPanel$10
+userinterface.PatientRole.PatientWorkAreaJPanel$11
+userinterface.PatientRole.PatientWorkAreaJPanel$12
+userinterface.PatientRole.PatientWorkAreaJPanel$13
+userinterface.PatientRole.PatientWorkAreaJPanel$14
+userinterface.PatientRole.PatientWorkAreaJPanel$15
+userinterface.PatientRole.PatientWorkAreaJPanel
+userinterface.PatientRole.PatientWorkAreaJPanel$1
+userinterface.PatientRole.PatientWorkAreaJPanel$4
+userinterface.PatientRole.PatientWorkAreaJPanel$5
+userinterface.PatientRole.PatientWorkAreaJPanel$2
+userinterface.PatientRole.PatientWorkAreaJPanel$3
+userinterface.PatientRole.PatientWorkAreaJPanel$8
+userinterface.PatientRole.PatientWorkAreaJPanel$9
+userinterface.PatientRole.PatientWorkAreaJPanel$6
+userinterface.PatientRole.PatientWorkAreaJPanel$7
